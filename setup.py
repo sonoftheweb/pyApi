@@ -55,7 +55,7 @@ setup(
     maintainer=AUTHOR,
     maintainer_email=AUTHOR_EMAIL,
     license="MIT",
-    url="https://github.com/a-luna/flask-api-tutorial",
+    url="https://github.com/sonoftheweb/pyApi",
     project_urls=PROJECT_URLS,
     packages=find_packages(where="src"),
     package_dir={"": "src"},
